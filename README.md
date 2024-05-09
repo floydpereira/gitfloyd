@@ -1,1 +1,4 @@
-# gitfloyd
+# Data Analyst
+
+### Education
+Geology, MSc
