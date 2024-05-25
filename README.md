@@ -1,4 +1,2 @@
 # Data Analyst
-
-### Education
-Geology, MSc
+SQL Project
