@@ -1,2 +1,3 @@
-# See through data
+# SQL Project
+## Data Cleaning & EDA
 
