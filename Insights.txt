@@ -1,28 +1,22 @@
-Unveiling Layoff Patterns: A Global Analysis with SQL
+Revealing Layoff Insights: Data Analysis with SQL
 
-Key insights:
+•	There are companies with 100% layoffs and 0% layoff.
 
-Note: Kindly note down that It's possible that there were layoffs before or after the date range (from 2020/03/11 to 2023/03/06) given but we consider the data in the layoffs_staging2 table that we have.
+•	The maximum number of layoffs within the timeframe covered in the dataset stands at 12000.
 
-•	There are both types of companies with 100% layoff (This indicates the most severe layoff event in terms of workforce reduction proportion.) and 0% layoff (This indicates the no layoff event in terms of workforce reduction proportion.)
+•	The company 'Katerra' in the 'Construction' industry has the highest number (2434) of employee layoffs at 100%.
 
-•	Identified the company name "Katerra" (location: SF Bay Area) with the highest number of layoffs where the entire workforce was laid off.
+•	The top 5 companies to have laid-off the most employees are:
+	1. Amazon
+	2. Google
+	3. Meta
+	4. Salesforce
+	5. Microsoft
 
-•	The most overall (total number of employees) layoffs are experienced in the following each sector:
-	Company: Amazon
-	Industry: Consumer
-	Country: United States
+•	According to the analysis the timeperiod where the layoffs occured was found to be between November 2020 to June 2023. 
 
-•	According to the data given,2022 is the year when the maximum layoffs are seen but there is 2023 year which could experience the most at the end of the year as we have only three-month data of 2023 year.
+•	The Consumer industry saw the highest layoffs followed by Retail, Transportation and others.
 
-•	There are specific months (Jan, Nov, Feb) with higher layoff activity. This can indicate seasonality in layoffs, where certain times of the year are more likely to see workforce reductions.
+•	Similarly, the year 2022 saw the peak layoffs followed by 2023, 2020 and 2021.
 
-•	There is a significant jump in respondents between December 2022 and January 2023.
-
-•	There are spikes in the number of laid-off in May 2022, June 2022, and November 2022. It is possible that these months correspond to periods of increased promotion of the survey.
-
-•	‘Google’ laid-off the most employees in 2023 with a total of 12,000.
-
-•	‘Meta’ laid-off the second-most employees in 2022 with a total of 11,000.
-
-•	‘2022’ appears to be the year with the most layoffs.
+•	A sharp increase in layoff trend is observed during the period May 2022 until January 2023, with January 2023 being the month with highest layoffs.
